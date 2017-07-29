@@ -1,4 +1,4 @@
-from main2	import Kevin as k
+
 from time import sleep
 import sys
 
