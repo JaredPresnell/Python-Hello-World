@@ -1,1 +1,6 @@
-//fuck you kevin
+'''
+asdf
+'''
+
+print 'hello'
+raw_input()
