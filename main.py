@@ -1,3 +1,9 @@
+'''
+spell check your friends posts from facebook, and compiles a list of your dumbest friends
+
+'''
+
+
 
 from time import sleep
 import sys
