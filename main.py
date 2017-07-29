@@ -8,7 +8,7 @@ def main():
 def load_indefinitely():
 	waittime = 1
 	while True:
-		sys.stdout.write('\r|kevinsux')
+		sys.stdout.write('\r|kevinsuxhard')
 		sleep(waittime)
 		sys.stdout.flush()
 		sys.stdout.write('\r/')
